@@ -1,0 +1,71 @@
+.body1{
+    width: 380px;
+    min-height: 200px;
+    margin: auto;
+    
+    background-color: #3C3B3D;
+}
+.taillepopup{
+    width: 330px;
+    min-height: 428px;
+    margin: auto;
+    background-color: #3C3B3D;
+
+}
+
+.title{
+    background-color: black;
+    width: 100%;
+    padding: 10px;
+
+    
+}
+.title > h1{
+    color: wheat;
+    font-weight: 100;
+    margin: 0;
+    font-size: 240%;
+    font-family: Arial ;
+}
+.images_logodocs {
+margin-left: 15px;
+}
+
+.title > b{
+    color: wheat;
+    font-weight: 100;
+    margin: 0;
+    font-size: 240%;
+    font-family: Arial ;
+}
+.rectangle{
+    margin-left: 15px;
+	width:120px;
+	height:35px;
+	background: #5E5D5D ;
+
+}
+
+.presentation{
+        float: left;
+        margin-left: 25px;
+	    background-color: #98969A;
+        border: dashed;
+        border-width: 2px 4px;
+        border-radius: 33px;
+        width: 130px;
+        border-color: darkgrey;
+        margin-top: 20px;
+}
+.espace{margin-right: 50px;
+    margin-top: 10px;
+}
+
+.calculatrice{
+    overflow: hidden;
+}
+
+
+a{
+    text-decoration: none;
+}

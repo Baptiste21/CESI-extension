@@ -1,0 +1,16 @@
+Dans le fichier docs/generaliste aucun fichier n'est disponible.
+pour en ajouter il vous suffit de mettre un format pdf qui comporte ces noms;
+1.pfd
+2.pdf
+3.pdf
+4.pdf
+5.pdf
+6.pdf
+7.pdf
+8.pdf
+9.pdf
+10.pdf
+
+je pense que 10 fichiers suffisent. il n'est pas possible d'enregistrer d'autres noms.
+Donc il faut te souvenir de quel fichier correspond a quoi.
+Bon controle!
